@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "version": "0.1.0",
+    "status": "preliminary"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Haukkasalo, Yövesi",
+        "score": 92,
+        "priority": "very_high",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.705,
+              61.443
+            ],
+            [
+              27.725,
+              61.443
+            ],
+            [
+              27.725,
+              61.453
+            ],
+            [
+              27.705,
+              61.453
+            ],
+            [
+              27.705,
+              61.443
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Laukniemi, Taipalsaari",
+        "score": 90,
+        "priority": "very_high",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.06,
+              61.325
+            ],
+            [
+              28.08,
+              61.325
+            ],
+            [
+              28.08,
+              61.335
+            ],
+            [
+              28.06,
+              61.335
+            ],
+            [
+              28.06,
+              61.325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Ukonkivi, Pielinen",
+        "score": 87,
+        "priority": "very_high",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.74,
+              63.105
+            ],
+            [
+              29.76,
+              63.105
+            ],
+            [
+              29.76,
+              63.115
+            ],
+            [
+              29.74,
+              63.115
+            ],
+            [
+              29.74,
+              63.105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Kylänniemi, Saimaa",
+        "score": 85,
+        "priority": "high",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.31,
+              61.37
+            ],
+            [
+              28.33,
+              61.37
+            ],
+            [
+              28.33,
+              61.38
+            ],
+            [
+              28.31,
+              61.38
+            ],
+            [
+              28.31,
+              61.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Pihlajavesi, Savonlinna",
+        "score": 83,
+        "priority": "high",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.87,
+              61.863
+            ],
+            [
+              28.89,
+              61.863
+            ],
+            [
+              28.89,
+              61.873
+            ],
+            [
+              28.87,
+              61.873
+            ],
+            [
+              28.87,
+              61.863
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Lietvesi, Puumala",
+        "score": 81,
+        "priority": "high",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.16,
+              61.515
+            ],
+            [
+              28.18,
+              61.515
+            ],
+            [
+              28.18,
+              61.525
+            ],
+            [
+              28.16,
+              61.525
+            ],
+            [
+              28.16,
+              61.515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Pyhäjärvi, Kitee",
+        "score": 80,
+        "priority": "high",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.12,
+              62.095
+            ],
+            [
+              30.14,
+              62.095
+            ],
+            [
+              30.14,
+              62.105
+            ],
+            [
+              30.12,
+              62.105
+            ],
+            [
+              30.12,
+              62.095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Luonteri, Anttola",
+        "score": 78,
+        "priority": "notable",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.79,
+              61.685
+            ],
+            [
+              27.81,
+              61.685
+            ],
+            [
+              27.81,
+              61.695
+            ],
+            [
+              27.79,
+              61.695
+            ],
+            [
+              27.79,
+              61.685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Kuolimo, Savitaipale",
+        "score": 76,
+        "priority": "notable",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.62,
+              61.215
+            ],
+            [
+              27.64,
+              61.215
+            ],
+            [
+              27.64,
+              61.225
+            ],
+            [
+              27.62,
+              61.225
+            ],
+            [
+              27.62,
+              61.215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Haukivesi, Oravi",
+        "score": 74,
+        "priority": "notable",
+        "field_status": "not_visited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.64,
+              62.195
+            ],
+            [
+              28.66,
+              62.195
+            ],
+            [
+              28.66,
+              62.205
+            ],
+            [
+              28.64,
+              62.205
+            ],
+            [
+              28.64,
+              62.195
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

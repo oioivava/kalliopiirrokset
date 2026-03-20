@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "status": "expert_estimate_not_validated",
+  "parameters": [
+    {
+      "id": "K1_geology",
+      "name": "Sileä graniittipinta",
+      "weight": 0.2,
+      "confidence": "high",
+      "source": "GTK WFS"
+    },
+    {
+      "id": "K2_shoreline",
+      "name": "Muinainen rantaviiva",
+      "weight": 0.2,
+      "confidence": "medium",
+      "source": "MML DEM + rannansiirtymämalli"
+    },
+    {
+      "id": "K3_topography",
+      "name": "Niemi/saari-topografia",
+      "weight": 0.15,
+      "confidence": "high",
+      "source": "MML maastotietokanta"
+    },
+    {
+      "id": "K4_settlement",
+      "name": "Kampaker. asuinpaikat < 2km",
+      "weight": 0.15,
+      "confidence": "medium",
+      "source": "Museovirasto WFS"
+    },
+    {
+      "id": "K5_waterway",
+      "name": "Vesireitin solmukohta",
+      "weight": 0.1,
+      "confidence": "low",
+      "source": "MML + SYKE"
+    },
+    {
+      "id": "K6_painting",
+      "name": "Kalliomaalaus lähellä",
+      "weight": 0.1,
+      "confidence": "low",
+      "source": "Museovirasto WFS"
+    },
+    {
+      "id": "K7_orientation",
+      "name": "Suuntaus selävedelle",
+      "weight": 0.1,
+      "confidence": "low",
+      "source": "DEM aspect"
+    }
+  ]
+}

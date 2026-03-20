@@ -1,0 +1,12 @@
+data/mml/*.tif
+data/mml/*.tiff
+data/museovirasto/*.gpkg
+data/gtk/*.xml
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.env
+.DS_Store
+*.tmp
