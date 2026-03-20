@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Haukkasalo",
+    "gen_1m": "Paragneiss, originally sands and clays deposited at the sea bottom",
+    "rock_class": "Metamorphic rock (Sedimentary protolith-composition-texture)",
+    "suitable": true
+  },
+  {
+    "id": 2,
+    "name": "Laukniemi",
+    "gen_1m": "Granit",
+    "rock_class": "Plutonic rock",
+    "suitable": true
+  },
+  {
+    "id": 3,
+    "name": "Ukonkivi",
+    "gen_1m": "Quartzite, originally sands deposited in ocean's shore zone",
+    "rock_class": "Metamorphic rock (Sedimentary protolith-composition-texture)",
+    "suitable": false
+  },
+  {
+    "id": 4,
+    "name": "Kylanniemi",
+    "gen_1m": "Paragneiss, originally sands and clays deposited at the sea bottom",
+    "rock_class": "Metamorphic rock (Sedimentary protolith-composition-texture)",
+    "suitable": true
+  },
+  {
+    "id": 5,
+    "name": "Pihlajavesi",
+    "gen_1m": "Paragneiss, originally sands and clays deposited at the sea bottom",
+    "rock_class": "Metamorphic rock (Sedimentary protolith-composition-texture)",
+    "suitable": true
+  },
+  {
+    "id": 6,
+    "name": "Lietvesi",
+    "gen_1m": "Paragneiss, originally sands and clays deposited at the sea bottom",
+    "rock_class": "Metamorphic rock (Sedimentary protolith-composition-texture)",
+    "suitable": true
+  },
+  {
+    "id": 7,
+    "name": "Pyhajarvi",
+    "gen_1m": "Paraschist, originally clays deposited at the sea bottom",
+    "rock_class": "Metamorphic rock (Sedimentary protolith-composition-texture)",
+    "suitable": false
+  },
+  {
+    "id": 8,
+    "name": "Luonteri",
+    "gen_1m": "Paragneiss, originally sands and clays deposited at the sea bottom",
+    "rock_class": "Metamorphic rock (Sedimentary protolith-composition-texture)",
+    "suitable": true
+  },
+  {
+    "id": 9,
+    "name": "Kuolimo",
+    "gen_1m": "Rapakivi granite, intrusions in Southeast Finland (1670-1620 Ma)",
+    "rock_class": "Plutonic rock",
+    "suitable": true
+  },
+  {
+    "id": 10,
+    "name": "Haukivesi",
+    "gen_1m": "Granodiorite, quartz diorite",
+    "rock_class": "Plutonic rock",
+    "suitable": true
+  }
+]
